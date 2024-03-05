@@ -1,6 +1,2 @@
 openai
-altair
-numpy
-pandas
-pydeck
 streamlit
